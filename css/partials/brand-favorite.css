@@ -1,0 +1,19 @@
+div.brand-favorite{
+    width: 80%;
+    height: 250px;
+    margin: 0 auto;
+    border: 1px solid #5a5c5a;
+    border-radius: 20px;
+    text-align: center;
+}
+div.brand-favorite>span{
+    display:inline-block;
+    font-family: IranYekan;
+    font-size: 20px;
+    margin-top: 10px;
+}
+div.brand-favorite>span>i{
+    margin-left: 10px;
+    color:yellow;
+}
+/* swiper */

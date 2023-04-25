@@ -1,0 +1,69 @@
+div.clear{
+    clear: both;
+}
+div.container{
+    width: 100%;
+    height: 240px;
+    text-align: center;
+    margin-top: 15px;
+}
+div.container>div{
+    display: inline-block;
+    margin-left: 10px;
+}
+div.container>div>a>img{
+    width: 320px;
+    border-radius: 15px;
+}
+p{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: IranYekan;
+    font-size: 36;
+    font-weight: bold;
+}
+/* two */
+div.cantainer-second{
+    width: 80%;
+    height: 260px;
+    margin: 0 auto;
+    text-align: center;
+}
+div.cantainer-second>div{
+    display: inline-block;
+}
+div.cantainer-second>div>a>img{
+    width: 600px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+}
+/* three */
+div.cantainer-third{
+    width: 80%;
+    height: 260px;
+    text-align: center;
+    margin: 0 auto;
+}
+div.cantainer-third>div{
+    display: inline-block;
+}
+div.cantainer-third>div>a>img{
+    width: 655px;
+    margin-top: 20px;
+    margin-right: 15PX;
+    border-radius: 20px;
+}
+
+/* fourth */
+
+div.container-fourth{
+width: 83%;
+height: 160px;
+margin: 10px auto;
+}
+div.container-fourth>a>img{
+    border-radius: 20px; 
+}

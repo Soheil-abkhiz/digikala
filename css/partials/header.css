@@ -1,0 +1,197 @@
+header {
+  width: 100%;
+}
+header > div.h1 {
+  width: 100%;
+  height: 60px;
+}
+header > div.h1 > img {
+  width: inherit;
+  height: inherit;
+  object-fit: cover;
+}
+header > div.h2 {
+  width: inherit;
+  height: 65px;
+  text-align: right;
+}
+header > div.h2 > div.logo {
+  width: 10%;
+  height: inherit;
+  text-align: center;
+  padding: 20px;
+  float: right;
+}
+header > div.h2 > div.search {
+  width: 45%;
+  height: inherit;
+  float: right;
+  text-align: right;
+  padding-top: 8px;
+  margin: right 10px;
+}
+header > div.h2 > div.search > input[type="search"] {
+  width: 600px;
+  height: 48px;
+  background-color: #f1f2f4;
+  border-radius: 10px;
+  border: unset;
+  outline: unset;
+  padding: 10px;
+  font-family: IranYekan;
+  font-size: 12px;
+}
+header > div.h2 > div.search > input[type="search"]:focus {
+  background-color: #4b4b4b;
+}
+header > div.h2 > div.search > input[type="search"]:focus::placeholder {
+  color: whitesmoke;
+}
+header > div.h2 > div.login {
+  width: 45%;
+  height: inherit;
+  float: right;
+  text-align: left;
+  padding-left: 30px;
+  padding-top: 12px;
+}
+header > div.h2 > div.login > a.a1 {
+  display: inline-block;
+  width: 135px;
+  height: 40px;
+  border: 1px solid lightgray;
+  text-align: center;
+  line-height: 40px;
+  text-decoration: none;
+  font-family: IranYekan;
+  font-size: 12px;
+  border-radius: 7px;
+  color: black;
+}
+header > div.h2 > div.login > a.a1 > i {
+  margin: 0 10px;
+  transform: rotate(180deg);
+  vertical-align: middle;
+}
+header > div.h2 > div.login > a.a2 {
+  margin-right: 10px;
+  font-size: 20px;
+  color: black;
+}
+header > div.h2 > div.login > a.a3 {
+  margin-left: 20px;
+}
+header > div.h2 > div.login > a.a3 > i {
+  color: black;
+  margin-right: 20px;
+  font-size: 20px;
+  vertical-align: middle;
+}
+header > div.h3 {
+  width: 100%;
+  height: 48px;
+  float: right;
+  border-bottom: solid  0.5px #5a5c7a ;
+  margin-bottom: 10px;
+}
+header > div.h3 > div.right {
+  width: 70%;
+  height: inherit;
+  float: right;
+}
+header > div.h3 > div.right > nav > ul {
+  width: 100%;
+  height: inherit;
+  padding-right: 20px;
+  list-style-type: none;
+  font-family: IranYekan;
+  font-size: 14px;
+  line-height: 48px;
+}
+header > div.h3 > div.right > nav > ul > li {
+  display: inline-block;
+  margin-right: 10px;
+  width: auto;
+  height: inherit;
+  vertical-align: top;
+}
+header > div.h3 > div.right > nav > ul > li > a {
+  display: block;
+  width: inherit;
+  height: inherit;
+  padding: 0 5px;
+  text-decoration: none;
+  color: #5a5c7a;
+  transition: 300ms;
+}
+header > div.h3 > div.right > nav > ul > li > a:hover {
+  border-bottom: solid 1px red;
+}
+header > div.h3 > div.right > nav > ul > li.menu >ul.menu {
+  list-style: none;
+  transition: 300ms;
+  display: none;
+}
+header > div.h3 > div.right > nav > ul > li.menu >ul.menu > li > a {
+  height: auto;
+  width: auto;
+  display: block;
+  color: #5a5c7a;
+  text-decoration: none;
+}
+header > div.h3 > div.right > nav > ul > li.menu >a:hover+ ul.menu {
+  display: inline-block;
+}
+header > div.h3 > div.right > nav > ul > li > a > i {
+  margin-left: 5px;
+  font-weight: bold;
+}
+header > div.h3 > div.left {
+  width: 30%;
+  height: inherit;
+  float: right;
+  line-height: 48px;
+  text-align: left;
+}
+header > div.h3 > div.left > a {
+  display: inline-block;
+  width: auto;
+  height: inherit;
+  text-decoration: none;
+  margin-left: 50px;
+  font-family: IranYekan;
+  color: black;
+}
+header > div.h3 > div.left > a > i {
+  color: #4b4b4b;
+  margin-left: 10px;
+}
+header > div.clear {
+  clear: both;
+}
+header > div.category {
+  width: 100%;
+  height: 150px;
+  text-align: center;
+}
+header > div.category>div{
+  display: inline-block;
+  width:auto ;
+  height: inherit;
+  margin-left: 10px;
+  text-align: center;
+  padding-top: 10px;
+  padding-left: 20px;
+}
+header > div.category>div>img{
+  width: 80px;
+  height: 80px;
+  border-radius: 50%; 
+  cursor: pointer;
+}
+header > div.category>div>h5{
+  font-family: IranYekan;
+  margin-top: 10px;
+  color: #5a5c7a;
+  margin: bottom 10px;
+}

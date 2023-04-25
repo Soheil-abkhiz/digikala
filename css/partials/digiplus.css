@@ -1,0 +1,95 @@
+div.digiplus{
+    width: 80%;
+    height: 400px;
+    background-color: rgb(115, 7, 115);
+    margin: 0 auto;
+    text-align: center;
+    float: center;
+    border-radius: 20px;
+}
+div.digiplus>div.right{
+    width: 30%;
+    height: 350px;
+    background-image: url(../../images/digiplus/right/background.png);
+    background-size:cover;
+    float: right;
+    margin-top: 26px;
+    margin-right: 10px;
+}
+div.digiplus>div.right>div.logo{
+    float: right;
+    margin-right: 15px;
+}
+div.digiplus>div.right>div{
+    text-align: right;
+}
+div.digiplus>div.right>div>div.clear{
+    clear: both;
+}
+div.digiplus>div.right>div>div.clear>p{
+    display: block;
+    margin-top: 10px;
+    color: whitesmoke;
+    font-family: IranYekan;
+    font-size: 12px;
+    font-weight: normal;
+    margin-right: 15px;
+}
+div.digiplus>div.right>div.membership{
+    width: 25%;
+    border: 1px solid white;
+    border-radius: 10px;
+    margin-right: 15px;
+}
+div.digiplus>div.right>div.membership>a{
+    color: whitesmoke;
+    font-family: IranYekan;
+    margin-right: 15px;
+    text-decoration: none;
+}
+div.digiplus>div.left{
+    width: 68%;
+    height: 350px;
+    background-color: white;
+    float: right;
+    margin-top: 28px;
+    margin-left: 10px;
+    border-radius: 20px;
+}
+div.digiplus>div.left>div.text{
+    background-color: blueviolet;
+}
+div.digiplus>div.left>div.text>div.right{
+    float: right;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+div.digiplus>div.left>div.text>div.right>a{
+    text-decoration: none;
+    font-family: IranYekan;
+    font-size: 18px;
+    color: navy;
+}
+div.digiplus>div.left>div.text>div.right>a>i{
+    color: rgb(224, 15, 224);
+    font-size: 20px;
+}
+div.digiplus>div.left>div.text>div.left{
+    float: left;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+div.clear{
+    clear: both;
+}
+div.digiplus>div.left>div.text>div.left>a{
+    text-decoration: none;
+    font-family: IranYekan;
+    font-size: 16px;
+    color: rgb(224, 15, 224)
+}
+div.digiplus>div.left>div.images>div>a>img{
+    width: 135px;
+    margin-top: 15px;
+    margin-right: -5px;
+}

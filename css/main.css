@@ -1,0 +1,24 @@
+@import url(../css/partials/setting.css);   
+@import url(./partials/header.css);
+@import url(./partials/slider.css);
+@import url(./partials/section.css);
+@import url(./partials/amazing.css);
+@import url(./partials/ruler-offer.css);
+@import url(./partials/contaner.css);
+@import url(./partials/grouping-digikala.css);
+@import url(./partials/suggestion.css);
+@import url(./partials/brand-favorite.css);
+@import url(./partials/smart-things.css);
+@import url(./partials/digiplus.css);
+@import url(./partials/digiclub.css);
+@import url(./partials/sport-things.css);
+@import url(./partials/more-sales.css);
+@import url(./partials/more-read.css);
+@import url(./partials/footer.css);
+@font-face {
+    font-family:IranYekan ;
+    src: url(../fonts/IranYekan/IRANYekanWeb.eot);
+    src: url(../fonts/IranYekan/IRANYekanWeb.ttf);
+    src: url(../fonts/IranYekan/IRANYekanWeb.woff);
+    src: url(../fonts/IranYekan/IRANYekanWeb.woff2);
+}

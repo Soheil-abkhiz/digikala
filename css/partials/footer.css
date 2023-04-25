@@ -1,0 +1,307 @@
+div.foote{
+    display: flex;
+    width: 100%;
+    background-color: gray;
+    border: 1px solid #5a5c5a;
+}
+div.footer>hr{
+    width: 100%;
+    height: 0.5px;
+    border: solid;
+    color: #5a5c5a;
+}
+/* -------------------- */
+div.footer>div.go-to-top{
+    width: 100%;
+    text-align: right;
+
+}
+div.footer>div.go-to-top>div.logo{
+    display: inline-block;
+    width: 50%;
+    text-align: right;
+    margin-top: 10px;
+    font-size: 40px;
+} 
+div.footer>div.go-to-top>div.logo>svg{
+    padding:0 20px;
+}
+div.footer>div.go-to-top>div{
+    display: inline-block;
+    width: 45%;
+    text-align: left;
+    border: 1px solied red;
+}
+div.footer>div.go-to-top>div>a{
+    border:1px solid #5a5c5a;
+    padding: 10px 50px;
+    border-radius: 10px;
+    color:#5a5c5a;
+    text-decoration: none;
+    font-family: IranYekan;
+    vertical-align: 20px;
+}
+div.footer>div.call{
+    width: 100%;
+    text-align: right;
+    padding-right: 30px;
+    margin-top: 15px;
+}
+div.footer>div.call>h4.number{
+    display: inline-block;
+    font-family: IranYekan;
+    font-size: 16px;
+    font-weight: normal;
+    border-left: 1px solid #5a5c5a;
+    padding-left: 20px;
+}
+div.footer>div.call>h4.text{
+    display: inline-block;
+    font-family: IranYekan;
+    font-size: 16px;
+    font-weight: normal;
+    padding-right: 20px;
+}
+/* ---------------------------- */
+div.footer>div.images{
+    margin-top: 10px;
+    width: 100%;
+    text-align: center;
+
+}
+div.footer>div.images>div{
+    display: inline-block;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+div.footer>div.images>div>h4{
+    font-family: IranYekan;
+    font-weight: normal;
+}
+/* ------------------- */
+div.news{
+    width: 100%;
+}
+div.footer>div.news>{
+    text-align: right;
+}
+div.footer>div.news>div.digikala{
+    width: 22%;
+    display: inline-block;
+    text-align: right;
+    margin: 20px;
+}
+div.footer>div.news>div.digikala>p{
+    display: block;
+    font-size: 16px;
+    font-family: IranYekan;
+}
+div.footer>div.news>div.digikala>a{
+    text-decoration: none;
+    padding-bottom: 10px;
+    display: block;
+    color: #5a5c5a;
+    font-family: IranYekan;
+    font-size: 16px;
+}
+div.footer>div.news>div.services{
+    width: 22%;
+    display: inline-block;
+    text-align: right;
+    margin: 20px;
+}
+div.footer>div.news>div.services>p{
+    display: block;
+    font-size: 16px;
+    font-family: IranYekan;
+}
+div.footer>div.news>div.services>a{
+    text-decoration: none;
+    padding-bottom: 10px;
+    display: block;
+    color: #5a5c5a;
+    font-family: IranYekan;
+    font-size: 16px;
+}
+div.footer>div.news>div.guide{
+    vertical-align:top;
+    width: 22%;
+    display: inline-block;
+    text-align: right;
+    margin: 20px;
+}
+div.footer>div.news>div.guide>p{
+    display: block;
+    font-family: IranYekan;
+    font-size: 16px;
+}
+div.footer>div.news>div.guide>a{
+    text-decoration: none;
+    padding-bottom: 10px;
+    display: block;
+    color: #5a5c5a;
+    font-family: IranYekan;
+    font-size: 16px;
+}
+div.footer>div.news>div.socials{
+    vertical-align:top;
+    width: 23%;
+    display: inline-block;
+    text-align: right;
+    margin:10px 40px;
+}
+div.footer>div.news>div.socials>p{
+    display: block;
+    font-family: IranYekan;
+    font-size: 16px;
+}
+div.footer>div.news>div.socials>a{
+    text-decoration: none;
+    padding-bottom: 10px;
+    display: inline-block;
+    color:gray;
+    font-family: IranYekan;
+    font-size: 40px;
+    padding-right: 20px;
+    padding-left: 20px;
+    text-align: center;
+}
+div.footer>div.news>div.socials>a>img{
+    width: 45px;
+    vertical-align: top;
+}
+div.footer>div.news>div.socials>input.email{
+    width: 70%;
+    height: 50px;
+    border: 1px solid lightgray;
+    background-color: lightgray;
+    border-radius: 15px;
+    font-family: IranYekan;
+    padding-right: 10px;
+}
+div.footer>div.news>div.socials>input{
+    width: 15%;
+    height: 50px;
+    border: 1px solid lightgray;
+    background-color: lightgray;
+    border-radius: 15px;
+    font-family: IranYekan;
+    padding-right: 10px;
+    color: whitesmoke;
+}
+/* ---------------- */
+div.footer>div.app{
+    width: 95%;
+    height: 80px;
+    margin: 0 auto;
+    background-color: #3c4b6d;
+    border-radius: 10px;
+    text-align: right;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #5a5c5a
+}
+div.footer>div.app>div.right{
+    display: inline-block;
+    width: 50%;
+}
+div.footer>div.app>div.right>img{
+    width: 80px;
+}
+div.footer>div.app>div.right>h4{
+    display: inline-block;
+    vertical-align: 30px;
+    font-family: IranYekan;
+    font-size: 28px;
+    color: whitesmoke;
+    font-weight: normal;
+}
+div.footer>div.app>div.left{
+    width: 45%;
+    display: inline-block;
+}
+div.footer>div.app>div.left>svg{
+    background-color: white;
+    vertical-align: 15px;
+    margin-left: 20px;
+    border-radius: 5px;
+}
+/* ------------------- */
+div.footer>div.about{
+    width: 100%;
+    height: 225px;
+    text-align: right;
+    border-top:1px solid #5a5c5a;
+    padding-top: 20px;
+}
+div.footer>div.about>div.text{
+    width: 65%;
+    height: 100%;
+    display: inline-block;
+    overflow: scroll;
+}
+div.footer>div.about>div.text>p{
+    display: block;
+    color: gray;
+}
+div.footer>div.about>div.text>span{
+    display: block;
+    font-family: IranYekan;
+    font-size: 15px;
+}
+div.footer>div.about>div.license{
+    width: 32%;
+    display: inline-block;
+    text-align: center;
+    vertical-align: 50px;
+
+}
+div.footer>div.about>div.license>div{
+    display: inline-block;
+    width: 30%;
+    height:150px;
+    border-radius: 10px;
+    border: 1px solid #5a5c5a;
+    margin-right: 10px;
+    padding-top: 20px;
+}
+div.footer>div.about>div.license>div>img.emblem{
+    width:100px;
+}
+div.footer>div.about>div.license>div>img.union{
+    width:75px;
+}
+div.footer>div.about>div.license>div>img.trust{
+    width:180px;
+}
+/* --------------------- */
+div.footer>div.copy-right{
+    width: 100%;
+    margin-top: 15px;
+    border-top: 1px solid #5a5c5a;
+    text-align: center;
+    padding: 25px 0;
+}
+div.footer>div.copy-right>span{
+    display: inline-block;
+    font-family: IranYekan;
+    font-size: 11px;
+}
+/* ------------- */
+div.footer>div.footer-logo{
+    width: 100%;
+    text-align: right;
+    height: 160px;
+}
+div.footer>div.footer-logo>div{
+    width:253px;
+    display: inline-block;
+    background-color: #f1f2f4;
+    border-left: 1px solid lightgray;
+    border-bottom: 1px solid lightgray;
+    margin-left: -4px;
+}
+div.footer>div.footer-logo>div>a{
+    margin: 0 auto;
+    padding: 0 35px;
+}
+

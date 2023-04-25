@@ -1,0 +1,91 @@
+div.suggestion{
+    width: 80%;
+    height: 400px;
+    margin: 15px auto;
+    text-align: center;
+}
+div.suggestion>p{
+    font-family: IranYekan;
+    font-size: 20px;
+    
+}
+div.suggestion>div.suggestion-up{
+    text-align: center;
+    border: 1px solid #4a4c4a;
+    border-radius: 20px 20px 0 0px;
+    margin: 0 10px;
+    border-bottom: none;
+}
+div.suggestion>div.suggestion-up>div{
+    display: inline-block;
+    border-right: 1px solid #4a4c4a;
+    padding: 15px 40px;
+    margin-left: -4px;
+}
+div.suggestion>div.suggestion-up>div>a>img{
+    display: block;
+    width: 100px;
+    border-radius: 50%;
+}
+div.suggestion>div.suggestion-up>div>span{
+    display: inline-block;
+    margin-top: 20px;
+    font-family: IranYekan;
+}
+
+
+div.suggestion>div.suggestion-up>div.first{
+    display: inline-block;
+    padding: 15px 40px;
+    margin-left: -4px;
+    border: none !important
+}
+div.suggestion>div.suggestion-up>div.first>a>img{
+    display: block;
+    width: 100px;
+    border-radius: 50%;
+}
+div.suggestion>div.suggestion-up>div.first>span{
+    display: inline-block;
+    margin-top: 20px;
+    font-family: IranYekan;
+}
+/* ----------------------------------------------- */
+div.suggestion>div.suggestion-down{
+    text-align: center;
+    border: 1px solid #4a4c4a;
+    border-radius:0 0 20px 20px;
+    margin: 0 10px;
+}
+div.suggestion>div.suggestion-down>div{
+    display: inline-block;
+    border-right: 1px solid #4a4c4a;
+    padding: 15px 40px;
+    margin-left: -4px;
+}
+div.suggestion>div.suggestion-down>div>a>img{
+    display: block;
+    width: 100px;
+    border-radius: 50%;
+}
+div.suggestion>div.suggestion-down>div>span{
+    display: inline-block;
+    margin-top: 20px;
+    font-family: IranYekan;
+}
+div.suggestion>div.suggestion-down>div.first{
+    display: inline-block;
+    padding: 15px 40px;
+    margin-left: -4px;
+    border: none !important
+}
+div.suggestion>div.suggestion-down>div.first>a>img{
+    display: block;
+    width: 100px;
+    border-radius: 50%;
+}
+div.suggestion>div.suggestion-down>div.first>span{
+    display: inline-block;
+    margin-top: 20px;
+    font-family: IranYekan;
+}

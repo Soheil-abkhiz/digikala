@@ -1,0 +1,27 @@
+section {
+  width: 100%;
+}
+section > div.category-second{
+    width: 100%;
+    height: 145px;
+    text-align: center;
+    
+}
+section > div.category-second>div{
+    display: inline-block;
+}
+section > div.category-second>div>a>img{
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+    margin-left: 80px;
+    border-radius: 50%;
+}
+
+section > div.category-second>div>h6{
+    font-family: IranYekan;
+    color: #5a5c7a;
+    margin-left: 80px;
+    font-size: 14px;
+}
+    

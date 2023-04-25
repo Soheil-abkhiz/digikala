@@ -1,0 +1,435 @@
+div.more-sales{
+    width: 80%;
+    height: 420px;
+    margin: 0 auto;
+    float: center;
+    border: 1px solid #5a5c5a;
+    border-radius: 20px;
+}
+div.more-sales>div.text{
+    width: 100%;
+    float: center;
+}
+div.more-sales>div.text>div.right{
+    float: right;
+    width: 55%;
+    padding-top: 10px;
+    text-align: right;
+}
+div.more-sales>div.text>div.right>h4{
+    float:left;
+    font-family: IranYekan;
+    font-size: 20px;
+}
+div.more-sales>div.text>div.right>h4>i{
+    color: yellow;
+    font-size: 28px;
+}
+div.more-sales>div.text>div.left{
+    float: left;
+    width: 40%;
+    margin-left: 20px;
+}
+div.more-sales>div.text>div.left>a{
+    float: left;
+    font-family: IranYekan;
+    font-size: 14px;
+    text-decoration: none;
+    margin-top: 10px;
+    color: rgba(0, 123, 255, 0.593);
+    font-weight: bold;
+}
+
+/* commodity */
+div.more-sales>div.commodity{
+    width: 98%;
+    height: 362px;
+    cursor: pointer;
+    margin: 15px auto;
+}
+/* right */
+div.more-sales>div.commodity>div.right{
+    display:inline-block;
+    width: 24%;
+    height: 100%;
+}
+/* first culum */
+div.more-sales>div.commodity>div.right>div.first-culum{
+    width: 100%;
+    height: 30%;
+    text-align: right;
+}
+div.more-sales>div.commodity>div.right>div.first-culum>div{
+    display: inline-block;
+}
+div.more-sales>div.commodity>div.right>div.first-culum>div>img{
+    display: inline-block;
+    width: 110px;
+}
+div.more-sales>div.commodity>div.right>div.first-culum>div>span{
+    font-family: IranYekan;
+    font-size: 30px;
+    margin-right: 20px;
+    vertical-align: 40px;
+    color: rgba(0, 170, 255, 0.886)
+}
+div.more-sales>div.commodity>div.right>div.first-culum>div.text{
+    border-bottom: 1px solid #5a5c5a;
+}
+div.more-sales>div.commodity>div.right>div.first-culum>div.text>h4{
+    display: inline-block;
+    font-family: IranYekan;
+    margin-right: 10px;
+    vertical-align: 40px;
+    font-size: 15px; 
+}
+/* second culum */
+div.more-sales>div.commodity>div.right>div.second-culum{
+    width: 100%;
+    height: 30%;
+    text-align: right;
+    margin-top: 15px;
+}
+div.more-sales>div.commodity>div.right>div.second-culum>div{
+    display: inline-block;
+}
+div.more-sales>div.commodity>div.right>div.second-culum>div>img{
+    display: inline-block;
+    width: 110px;
+}
+div.more-sales>div.commodity>div.right>div.second-culum>div>span{
+    font-family: IranYekan;
+    font-size: 30px;
+    margin-right: 20px;
+    vertical-align: 40px;
+    color: rgba(0, 170, 255, 0.886)
+}
+div.more-sales>div.commodity>div.right>div.second-culum>div.text{
+    border-bottom: 1px solid #5a5c5a;
+    width: 51%;
+}
+div.more-sales>div.commodity>div.right>div.second-culum>div.text>h4{
+    display: inline-block;
+    font-family: IranYekan;
+    margin-right: 10px;
+    vertical-align: 40px;
+    font-size: 15px; 
+}
+/* third culum */
+div.more-sales>div.commodity>div.right>div.third-culum{
+    width: 100%;
+    height: 30%;
+    text-align: right;
+    margin-top: 15px;
+}
+div.more-sales>div.commodity>div.right>div.third-culum>div{
+    display: inline-block;
+}
+div.more-sales>div.commodity>div.right>div.third-culum>div>img{
+    display: inline-block;
+    width: 110px;
+}
+div.more-sales>div.commodity>div.right>div.third-culum>div>span{
+    font-family: IranYekan;
+    font-size: 30px;
+    margin-right: 20px;
+    vertical-align: 40px;
+    color: rgba(0, 170, 255, 0.886)
+}
+div.more-sales>div.commodity>div.right>div.third-culum>div.text>h4{
+    display: inline-block;
+    font-family: IranYekan;
+    margin-right: 10px;
+    vertical-align: 40px;
+    font-size: 15px; 
+}
+/* center right */
+div.more-sales>div.commodity>div.center-right{
+    display: inline-block;
+    width: 25%;
+    height: 100%;
+}
+/* first culum */
+div.more-sales>div.commodity>div.center-right>div.first-culum{
+    width: 100%;
+    height: 30%;
+    text-align: right;
+}
+div.more-sales>div.commodity>div.center-right>div.first-culum>div{
+    display: inline-block;
+}
+div.more-sales>div.commodity>div.center-right>div.first-culum>div>img{
+    display: inline-block;
+    width: 110px;
+}
+div.more-sales>div.commodity>div.center-right>div.first-culum>div>span{
+    font-family: IranYekan;
+    font-size: 30px;
+    margin-right: 20px;
+    vertical-align: 40px;
+    color: rgba(0, 170, 255, 0.886)
+}
+div.more-sales>div.commodity>div.center-right>div.first-culum>div.text{
+    border-bottom: 1px solid #5a5c5a;
+}
+div.more-sales>div.commodity>div.center-right>div.first-culum>div.text>h4{
+    display: inline-block;
+    font-family: IranYekan;
+    margin-right: 10px;
+    vertical-align: 40px;
+    font-size: 15px; 
+    word-break: keep-all;
+}
+/* second culum */
+div.more-sales>div.commodity>div.center-right>div.second-culum{
+    width: 100%;
+    height: 30%;
+    text-align: right;
+    margin-top: 15px;
+}
+div.more-sales>div.commodity>div.center-right>div.second-culum>div{
+    display: inline-block;
+}
+div.more-sales>div.commodity>div.center-right>div.second-culum>div>img{
+    display: inline-block;
+    width: 110px;
+}
+div.more-sales>div.commodity>div.center-right>div.second-culum>div>span{
+    font-family: IranYekan;
+    font-size: 30px;
+    margin-right: 20px;
+    vertical-align: 40px;
+    color: rgba(0, 170, 255, 0.886)
+}
+div.more-sales>div.commodity>div.center-right>div.second-culum>div.text{
+    border-bottom: 1px solid #5a5c5a;
+    width: 51%;
+}
+div.more-sales>div.commodity>div.center-right>div.second-culum>div.text>h4{
+    display: inline-block;
+    font-family: IranYekan;
+    margin-right: 10px;
+    vertical-align: 40px;
+    font-size: 15px; 
+}
+/* third culum */
+div.more-sales>div.commodity>div.center-right>div.third-culum{
+    width: 100%;
+    height: 30%;
+    text-align: right;
+    margin-top: 15px;
+}
+div.more-sales>div.commodity>div.center-right>div.third-culum>div{
+    display: inline-block;
+}
+div.more-sales>div.commodity>div.center-right>div.third-culum>div>img{
+    display: inline-block;
+    width: 110px;
+}
+div.more-sales>div.commodity>div.center-right>div.third-culum>div>span{
+    font-family: IranYekan;
+    font-size: 30px;
+    margin-right: 20px;
+    vertical-align: 40px;
+    color: rgba(0, 170, 255, 0.886)
+}
+div.more-sales>div.commodity>div.center-right>div.third-culum>div.text>h4{
+    display: inline-block;
+    font-family: IranYekan;
+    margin-right: 10px;
+    vertical-align: 40px;
+    font-size: 15px; 
+}
+/* center left */
+div.more-sales>div.commodity>div.center-left{
+    display:inline-block;
+    width: 25%;
+    height: 100%;
+}
+/* first culum */
+div.more-sales>div.commodity>div.center-left>div.first-culum{
+    width: 100%;
+    height: 30%;
+    text-align: right;
+}
+div.more-sales>div.commodity>div.center-left>div.first-culum>div{
+    display: inline-block;
+}
+div.more-sales>div.commodity>div.center-left>div.first-culum>div>img{
+    display: inline-block;
+    width: 110px;
+}
+div.more-sales>div.commodity>div.center-left>div.first-culum>div>span{
+    font-family: IranYekan;
+    font-size: 30px;
+    margin-right: 20px;
+    vertical-align: 40px;
+    color: rgba(0, 170, 255, 0.886)
+}
+div.more-sales>div.commodity>div.center-left>div.first-culum>div.text{
+    border-bottom: 1px solid #5a5c5a;
+}
+div.more-sales>div.commodity>div.center-left>div.first-culum>div.text>h4{
+    display: inline-block;
+    font-family: IranYekan;
+    margin-right: 10px;
+    vertical-align: 40px;
+    font-size: 15px; 
+}
+/* second culum */
+div.more-sales>div.commodity>div.center-left>div.second-culum{
+    width: 100%;
+    height: 30%;
+    text-align: right;
+    margin-top: 15px;
+}
+div.more-sales>div.commodity>div.center-left>div.second-culum>div{
+    display: inline-block;
+}
+div.more-sales>div.commodity>div.center-left>div.second-culum>div>img{
+    display: inline-block;
+    width: 110px;
+}
+div.more-sales>div.commodity>div.center-left>div.second-culum>div>span{
+    font-family: IranYekan;
+    font-size: 30px;
+    margin-right: 20px;
+    vertical-align: 40px;
+    color: rgba(0, 170, 255, 0.886)
+}
+div.more-sales>div.commodity>div.center-left>div.second-culum>div.text{
+    border-bottom: 1px solid #5a5c5a;
+    width: 51%;
+}
+div.more-sales>div.commodity>div.center-left>div.second-culum>div.text>h4{
+    display: inline-block;
+    font-family: IranYekan;
+    margin-right: 10px;
+    vertical-align: 40px;
+    font-size: 15px; 
+}
+/* third culum */
+div.more-sales>div.commodity>div.center-left>div.third-culum{
+    width: 100%;
+    height: 30%;
+    text-align: right;
+    margin-top: 15px;
+}
+div.more-sales>div.commodity>div.center-left>div.third-culum>div{
+    display: inline-block;
+}
+div.more-sales>div.commodity>div.center-left>div.third-culum>div>img{
+    display: inline-block;
+    width: 110px;
+}
+div.more-sales>div.commodity>div.center-left>div.third-culum>div>span{
+    font-family: IranYekan;
+    font-size: 30px;
+    margin-right: 20px;
+    vertical-align: 40px;
+    color: rgba(0, 170, 255, 0.886)
+}
+div.more-sales>div.commodity>div.center-left>div.third-culum>div.text>h4{
+    display: inline-block;
+    font-family: IranYekan;
+    margin-right: 10px;
+    vertical-align: 40px;
+    font-size: 15px; 
+}
+/* left */
+div.more-sales>div.commodity>div.left{
+    display: inline-block;
+    width: 25%;
+    height: 100%;
+}
+/* first culum */
+div.more-sales>div.commodity>div.left>div.first-culum{
+    width: 100%;
+    height: 30%;
+    text-align: right;
+}
+div.more-sales>div.commodity>div.left>div.first-culum>div{
+    display: inline-block;
+}
+div.more-sales>div.commodity>div.left>div.first-culum>div>img{
+    display: inline-block;
+    width: 110px;
+}
+div.more-sales>div.commodity>div.left>div.first-culum>div>span{
+    font-family: IranYekan;
+    font-size: 30px;
+    margin-right: 20px;
+    vertical-align: 40px;
+    color: rgba(0, 170, 255, 0.886)
+}
+div.more-sales>div.commodity>div.left>div.first-culum>div.text{
+    border-bottom: 1px solid #5a5c5a;
+}
+div.more-sales>div.commodity>div.left>div.first-culum>div.text>h4{
+    display: inline-block;
+    font-family: IranYekan;
+    margin-right: 10px;
+    vertical-align: 40px;
+    font-size: 15px; 
+    word-break: keep-all;
+}
+/* second culum */
+div.more-sales>div.commodity>div.left>div.second-culum{
+    width: 100%;
+    height: 30%;
+    text-align: right;
+    margin-top: 15px;
+}
+div.more-sales>div.commodity>div.left>div.second-culum>div{
+    display: inline-block;
+}
+div.more-sales>div.commodity>div.left>div.second-culum>div>img{
+    display: inline-block;
+    width: 110px;
+}
+div.more-sales>div.commodity>div.left>div.second-culum>div>span{
+    font-family: IranYekan;
+    font-size: 30px;
+    margin-right: 20px;
+    vertical-align: 40px;
+    color: rgba(0, 170, 255, 0.886)
+}
+div.more-sales>div.commodity>div.left>div.second-culum>div.text{
+    border-bottom: 1px solid #5a5c5a;
+    width: 51%;
+}
+div.more-sales>div.commodity>div.left>div.second-culum>div.text>h4{
+    display: inline-block;
+    font-family: IranYekan;
+    margin-right: 10px;
+    vertical-align: 40px;
+    font-size: 15px; 
+}
+/* third culum */
+div.more-sales>div.commodity>div.left>div.third-culum{
+    width: 100%;
+    height: 30%;
+    text-align: right;
+    margin-top: 15px;
+}
+div.more-sales>div.commodity>div.left>div.third-culum>div{
+    display: inline-block;
+}
+div.more-sales>div.commodity>div.left>div.third-culum>div>img{
+    display: inline-block;
+    width: 110px;
+}
+div.more-sales>div.commodity>div.left>div.third-culum>div>span{
+    font-family: IranYekan;
+    font-size: 30px;
+    margin-right: 20px;
+    vertical-align: 40px;
+    color: rgba(0, 170, 255, 0.886)
+}
+div.more-sales>div.commodity>div.left>div.third-culum>div.text>h4{
+    display: inline-block;
+    font-family: IranYekan;
+    margin-right: 10px;
+    vertical-align: 40px;
+    font-size: 15px; 
+}

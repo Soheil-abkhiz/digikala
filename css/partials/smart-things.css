@@ -1,0 +1,245 @@
+div.smart-things{
+    width: 82%;
+    height: 420px;
+    margin: 40px auto;
+    border: 1px solid #5a5c5a!important;
+    border-radius: 20px;
+}
+div.smart-things>div{
+    width: 25%;
+    float: right;
+}
+div.smart-things>div>div.phone{
+    text-align: right;
+    margin-right: 20px;
+    margin-top: 5px;
+}
+div.smart-things>div>div.phone>span{
+    display: block;
+    font-family: IranYekan;
+    font-size: 14px;
+    font-weight: bold;    
+}
+div.smart-things>div>div.phone>p{
+    display: block;
+    font-size: 11px;
+    font-weight: normal;
+}
+div.smart-things>div>div.phone>div.images{
+    text-align: center;
+}
+div.smart-things>div>div.phone>div.images>div{
+    display: inline-block;
+}
+div.smart-things>div>div.phone>div.images>div>a>img.one{
+    width: 140px;
+    height: 140px;
+    border-bottom: 0.5px solid #6a6c6a;
+    margin-top: 5px;
+}div.smart-things>div>div.phone>div.images>div>a>img.two{
+    width: 140px;
+    height: 140px;
+    border-right: 0.5px solid #6a6c6a;
+    border-bottom: 0.5px solid #6a6c6a;
+}
+div.smart-things>div>div.phone>div.images>div>a>img.three{
+    width: 140px;
+    height: 140px;
+}
+div.smart-things>div>div.phone>div.images>div>a>img.four{
+    width: 140px;
+    height: 140px;
+    border-right: 0.5px solid #6a6c6a;
+}
+div.smart-things>div>div.phone>div.view{
+    text-align: center;
+}
+div.smart-things>div>div.phone>div.view>a{
+    display: block;
+    margin-top: 10px;
+    font-family: IrnanYekan;
+    font-size: 20px;
+    text-decoration: none;
+    color: lightseagreen;
+}
+div.smart-things>div>div.phone>div.view>a>i{
+    margin-right: 10px;
+}
+
+/* cover */
+div.smart-things>div>div.cover{
+    text-align: right;
+    margin-right: 20px;
+    margin-top: 5px;
+    float: right;
+}
+div.smart-things>div>div.cover>span{
+    display: block;
+    font-family: IranYekan;
+    font-size: 14px;
+    font-weight: bold;    
+}
+div.smart-things>div>div.cover>p{
+    display: block;
+    font-size: 11px;
+    font-weight: normal;
+}
+div.smart-things>div>div.cover>div.images{
+text-align: center;
+}
+div.smart-things>div>div.cover>div.images>div{
+    display: inline-block;
+}
+div.smart-things>div>div.cover>div.images>div>a>img.one{
+    width: 140px;
+    height: 140px;
+    border-bottom: 0.5px solid #6a6c6a;
+    margin-top: 5px;
+}div.smart-things>div>div.cover>div.images>div>a>img.two{
+    width: 140px;
+    height: 140px;
+    border-right: 0.5px solid #6a6c6a;
+    border-bottom: 0.5px solid #6a6c6a;
+}
+div.smart-things>div>div.cover>div.images>div>a>img.three{
+    width: 140px;
+    height: 140px;
+}
+div.smart-things>div>div.cover>div.images>div>a>img.four{
+    width: 140px;
+    height: 140px;
+    border-right: 0.5px solid #6a6c6a;
+}
+div.smart-things>div>div.cover>div.view{
+    text-align: center;
+}
+div.smart-things>div>div.cover>div.view>a{
+    display: block;
+    margin-top: 10px;
+    font-family: IrnanYekan;
+    font-size: 20px;
+    text-decoration: none;
+    color: lightseagreen;
+}
+div.smart-things>div>div.cover>div.view>a>i{
+    margin-right: 10px;
+}
+/* airpods */
+div.smart-things>div>div.airpods{
+    text-align: right;
+    margin-right: 20px;
+    margin-top: 5px;
+    float: right;
+}
+div.smart-things>div>div.airpods>span{
+    display: block;
+    font-family: IranYekan;
+    font-size: 14px;
+    font-weight: bold;    
+}
+div.smart-things>div>div.airpods>p{
+    display: block;
+    font-size: 11px;
+    font-weight: normal;
+}
+div.smart-things>div>div.airpods>div.images{
+text-align: center;
+}
+div.smart-things>div>div.airpods>div.images>div{
+    display: inline-block;
+}
+div.smart-things>div>div.airpods>div.images>div>a>img.one{
+    width: 140px;
+    height: 140px;
+    border-bottom: 0.5px solid #6a6c6a;
+    margin-top: 5px;
+}div.smart-things>div>div.airpods>div.images>div>a>img.two{
+    width: 140px;
+    height: 140px;
+    border-right: 0.5px solid #6a6c6a;
+    border-bottom: 0.5px solid #6a6c6a;
+}
+div.smart-things>div>div.airpods>div.images>div>a>img.three{
+    width: 140px;
+    height: 140px;
+}
+div.smart-things>div>div.airpods>div.images>div>a>img.four{
+    width: 140px;
+    height: 140px;
+    border-right: 0.5px solid #6a6c6a;
+}
+div.smart-things>div>div.airpods>div.view{
+    text-align: center;
+}
+div.smart-things>div>div.airpods>div.view>a{
+    display: block;
+    margin-top: 10px;
+    font-family: IrnanYekan;
+    font-size: 20px;
+    text-decoration: none;
+    color: lightseagreen;
+}
+div.smart-things>div>div.airpods>div.view>a>i{
+    margin-right: 10px;
+}
+/* watch */
+div.smart-things{
+    border-left: none;
+}
+div.smart-things>div>div.watch{
+    text-align: right;
+    margin-right: 20px;
+    margin-top: 5px;
+    float: right;
+}
+div.smart-things>div>div.watch>span{
+    display: block;
+    font-family: IranYekan;
+    font-size: 14px;
+    font-weight: bold;    
+}
+div.smart-things>div>div.watch>p{
+    display: block;
+    font-size: 11px;
+    font-weight: normal;
+}
+div.smart-things>div>div.watch>div.images{
+text-align: center;
+}
+div.smart-things>div>div.watch>div.images>div{
+    display: inline-block;
+}
+div.smart-things>div>div.watch>div.images>div>a>img.one{
+    width: 140px;
+    height: 140px;
+    border-bottom: 0.5px solid #6a6c6a;
+    margin-top: 5px;
+}div.smart-things>div>div.watch>div.images>div>a>img.two{
+    width: 140px;
+    height: 140px;
+    border-right: 0.5px solid #6a6c6a;
+    border-bottom: 0.5px solid #6a6c6a;
+}
+div.smart-things>div>div.watch>div.images>div>a>img.three{
+    width: 140px;
+    height: 140px;
+}
+div.smart-things>div>div.watch>div.images>div>a>img.four{
+    width: 140px;
+    height: 140px;
+    border-right: 0.5px solid #6a6c6a;
+}
+div.smart-things>div>div.watch>div.view{
+    text-align: center;
+}
+div.smart-things>div>div.watch>div.view>a{
+    display: block;
+    margin-top: 10px;
+    font-family: IrnanYekan;
+    font-size: 20px;
+    text-decoration: none;
+    color: lightseagreen;
+}
+div.smart-things>div>div.watch>div.view>a>i{
+    margin-right: 10px;
+}

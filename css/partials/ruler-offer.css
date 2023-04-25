@@ -1,0 +1,73 @@
+div.ruler-offer{
+    width: 80%;
+    height: 110px;
+    background-color: #DEDEE4;
+    margin: 0 auto;
+    margin-top: 7px;
+    border-radius: 15px;
+}
+div.ruler-offer>div.ruler-offer-right{
+    width: 50%;
+    padding-right: 20px;
+    float: right;
+}
+div.ruler-offer>div.ruler-offer-right>div.box{
+    display: inline-block;
+    width: 5%;
+    margin-top: 25px;
+    margin-right: 10px;
+    float: right;
+}
+div.ruler-offer>div.ruler-offer-right>div.box>img{
+    width: 80px;
+}
+div.ruler-offer>div.ruler-offer-right>div.text>span{
+    float: right;
+    font-family: IranYekan;
+    color:#74BB2E;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 30px;
+    margin-right: 70px;
+    
+}
+div.ruler-offer>div.ruler-offer-right>div.text-offer{
+    display: inline-block;
+    margin-right: 40px;
+    margin-top: 45px;
+    
+}
+div.ruler-offer>div.ruler-offer-right>div.text-offer>span{
+    border-radius: 30px;
+    border: 1px solid #74BB2E;
+    background-color: green;
+    font-family: IranYekan;
+    font-size: 15px;
+    color: whitesmoke;
+}
+div.ruler-offer>div.ruler-offer-left{
+    width: 50%;
+    float: right;
+    margin-top: 20px;
+}
+
+div.ruler-offer>div.ruler-offer-left>div{
+    margin-right: 10px;
+    float: right
+    ;
+    
+}
+div.ruler-offer>div.ruler-offer-left>div>a>img{
+    width: 70px;
+    margin-right: 10px;
+    border-radius: 50%;
+}
+div.ruler-offer>div.ruler-offer-left>div>a.more-ninty{
+    text-decoration: none;
+    background-color: white;
+    border-radius: 30px;
+    font-family: IranYekan;
+    font-size: 14px;
+    line-height: 70px;
+    color: green;
+}

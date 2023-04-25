@@ -1,0 +1,233 @@
+div.sport-things{
+    width: 80%;
+    height: 420px;
+    margin: 40px auto;
+    border: 1px solid #5a5c5a;
+    border-radius: 20px;
+}
+div.sport-things>div{
+    width: 25%;
+    float: right;
+}
+div.sport-things>div>div.know-techniques{
+    text-align: right;
+    margin-right: 20px;
+    margin-top: 5px;
+}
+div.sport-things>div>div.know-techniques>span{
+    display: block;
+    font-family: IranYekan;
+    font-size: 14px;
+    font-weight: bold;    
+}
+div.sport-things>div>div.know-techniques>p{
+    display: block;
+    font-size: 11px;
+    font-weight: normal;
+}
+div.sport-things>div>div.know-techniques>div.images{
+text-align: center;
+}
+div.sport-things>div>div.know-techniques>div.images>div{
+    display: inline-block;
+}
+div.sport-things>div>div.know-techniques>div.images>div>a>img.one{
+    width: 140px;
+    height: 140px;
+    margin-top: 5px;
+}div.sport-things>div>div.know-techniques>div.images>div>a>img.two{
+    width: 140px;
+    height: 140px;
+    border-right: 0.5px solid #6a6c6a;
+}
+div.sport-things>div>div.know-techniques>div.images>div>a>img.three{
+    width: 140px;
+    height: 140px;
+}
+div.sport-things>div>div.know-techniques>div.images>div>a>img.four{
+    width: 140px;
+    height: 140px;
+    border-right: 0.5px solid #6a6c6a;
+}
+div.sport-things>div>div.know-techniques>div.view{
+    text-align: center;
+}
+div.sport-things>div>div.know-techniques>div.view>a{
+    display: block;
+    margin-top: 10px;
+    font-family: IrnanYekan;
+    font-size: 20px;
+    text-decoration: none;
+    color: lightseagreen;
+}
+div.sport-things>div>div.know-techniques>div.view>a>i{
+    margin-right: 10px;
+}
+
+/* shoes */
+div.sport-things>div>div.shoes{
+    text-align: right;
+    margin-right: 20px;
+    margin-top: 5px;
+}
+div.sport-things>div>div.shoes>span{
+    display: block;
+    font-family: IranYekan;
+    font-size: 14px;
+    font-weight: bold;    
+}
+div.sport-things>div>div.shoes>p{
+    display: block;
+    font-size: 11px;
+    font-weight: normal;
+}
+div.sport-things>div>div.shoes>div.images{
+text-align: center;
+}
+div.sport-things>div>div.shoes>div.images>div{
+    display: inline-block;
+}
+div.sport-things>div>div.shoes>div.images>div>a>img.one{
+    width: 140px;
+    height: 140px;
+    margin-top: 5px;
+}div.sport-things>div>div.shoes>div.images>div>a>img.two{
+    width: 140px;
+    height: 140px;
+    border-right: 0.5px solid #6a6c6a;
+}
+div.sport-things>div>div.shoes>div.images>div>a>img.three{
+    width: 140px;
+    height: 140px;
+}
+div.sport-things>div>div.shoes>div.images>div>a>img.four{
+    width: 140px;
+    height: 140px;
+    border-right: 0.5px solid #6a6c6a;
+}
+div.sport-things>div>div.shoes>div.view{
+    text-align: center;
+}
+div.sport-things>div>div.shoes>div.view>a{
+    display: block;
+    margin-top: 10px;
+    font-family: IrnanYekan;
+    font-size: 20px;
+    text-decoration: none;
+    color: lightseagreen;
+}
+div.sport-things>div>div.shoes>div.view>a>i{
+    margin-right: 10px;
+}
+
+/* laptop */
+div.sport-things>div>div.laptop{
+    text-align: right;
+    margin-right: 20px;
+    margin-top: 5px;
+}
+div.sport-things>div>div.laptop>span{
+    display: block;
+    font-family: IranYekan;
+    font-size: 14px;
+    font-weight: bold;    
+}
+div.sport-things>div>div.laptop>p{
+    display: block;
+    font-size: 11px;
+    font-weight: normal;
+}
+div.sport-things>div>div.laptop>div.images{
+text-align: center;
+}
+div.sport-things>div>div.laptop>div.images>div{
+    display: inline-block;
+}
+div.sport-things>div>div.laptop>div.images>div>a>img.one{
+    width: 140px;
+    height: 140px;
+    margin-top: 5px;
+}div.sport-things>div>div.laptop>div.images>div>a>img.two{
+    width: 140px;
+    height: 140px;
+    border-right: 0.5px solid #6a6c6a;
+}
+div.sport-things>div>div.laptop>div.images>div>a>img.three{
+    width: 140px;
+    height: 140px;
+}
+div.sport-things>div>div.laptop>div.images>div>a>img.four{
+    width: 140px;
+    height: 140px;
+    border-right: 0.5px solid #6a6c6a;
+}
+div.sport-things>div>div.laptop>div.view{
+    text-align: center;
+}
+div.sport-things>div>div.laptop>div.view>a{
+    display: block;
+    margin-top: 10px;
+    font-family: IrnanYekan;
+    font-size: 20px;
+    text-decoration: none;
+    color: lightseagreen;
+}
+div.sport-things>div>div.laptop>div.view>a>i{
+    margin-right: 10px;
+}
+
+/* cars */
+div.sport-things>div>div.cars{
+    text-align: right;
+    margin-right: 20px;
+    margin-top: 5px;
+}
+div.sport-things>div>div.cars>span{
+    display: block;
+    font-family: IranYekan;
+    font-size: 14px;
+    font-weight: bold;    
+}
+div.sport-things>div>div.cars>p{
+    display: block;
+    font-size: 11px;
+    font-weight: normal;
+}
+div.sport-things>div>div.cars>div.images{
+text-align: center;
+}
+div.sport-things>div>div.cars>div.images>div{
+    display: inline-block;
+}
+div.sport-things>div>div.cars>div.images>div>a>img.one{
+    width: 140px;
+    height: 140px;
+    margin-top: 5px;
+}div.sport-things>div>div.cars>div.images>div>a>img.two{
+    width: 140px;
+    height: 140px;
+    border-right: 0.5px solid #6a6c6a;
+}
+div.sport-things>div>div.cars>div.images>div>a>img.three{
+    width: 140px;
+    height: 140px;
+}
+div.sport-things>div>div.cars>div.images>div>a>img.four{
+    width: 140px;
+    height: 140px;
+    border-right: 0.5px solid #6a6c6a;
+}
+div.sport-things>div>div.cars>div.view{
+    text-align: center;
+}
+div.sport-things>div>div.cars>div.view>a{
+    display: block;
+    margin-top: 10px;
+    font-family: IrnanYekan;
+    font-size: 20px;
+    text-decoration: none;
+    color: lightseagreen;
+}
+div.sport-things>div>div.cars>div.view>a>i{
+    margin-right: 10px;
+}

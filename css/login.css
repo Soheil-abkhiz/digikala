@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@font-face {
+    font-family:IranYekan ;
+    src: url(../fonts/IranYekan/IRANYekanWeb.eot);
+    src: url(../fonts/IranYekan/IRANYekanWeb.ttf);
+    src: url(../fonts/IranYekan/IRANYekanWeb.woff);
+    src: url(../fonts/IranYekan/IRANYekanWeb.woff2);
+}
+body>div.wrapper>div.login{
+    width: 600px;
+    height: 500px;
+    margin: 250px auto;
+    border-radius: 10px;
+    border: 1px solid lightgray;
+}
+body>div.wrapper>div.login>div.logo{
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 30px;
+}
+body>div.wrapper>div.login>div.sign{
+    width: 100%;
+    height: 50px;
+    text-align: right;
+    padding-right: 20px;
+    margin-top: 20px;
+}
+body>div.wrapper>div.login>div.sign>p{
+    display: inline-block;
+    border-left: 2px solid black;
+    margin-left: 10px;
+    padding-left: 10px;
+    font-family: IranYekan;
+    font-size: 24px;
+}
+body>div.wrapper>div.login>p{
+    direction: rtl;
+    font-family: IranYekan;
+    font-weight: normal;
+    padding-right: 20px;
+    font-size: 16px;
+}
+body>div.wrapper>div.login>input{
+    display: block;
+    margin: 30px auto;
+    width: 80%;
+    height: 60px;
+    border-radius: 8px;  
+    border: 1px solid #5a5c5a;   
+}
+body>div.wrapper>div.login>input.submit{
+    display: block;
+    margin: 40px auto;
+    width: 80%;
+    height: 60px;
+    border-radius: 8px; 
+    background-color: #ef4056; 
+    border: 1px solid #ef4056; 
+    font-family: IranYekan; 
+    font-size: 16px;
+    color: whitesmoke;
+}
+body>div.wrapper>div.login>p.warning{
+    margin-top: 50px;
+    direction: rtl;
+    font-family: IranYekan;
+    font-weight: normal;
+    padding-right: 75px;
+    font-size: 14px;
+}

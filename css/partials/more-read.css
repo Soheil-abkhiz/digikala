@@ -1,0 +1,98 @@
+div.clear{
+    clear: both;
+}
+div.more-read{
+    width: 80%;
+    height: 360px;
+    margin:60px auto;
+}
+div.more-read>div.title{
+    width: 100%;
+}
+div.more-read>div.title>div{
+    width: 50%;
+    display: inline-block;
+    text-align: right;
+}
+div.more-read>div.title>div>h4{
+    display: inline-block;
+    font-family: Iranyekan;
+    font-size: 20px;
+}
+div.more-read>div.title>div.more{
+    width: 45%;
+    display: inline-block;
+    text-align: left;
+}
+div.more-read>div.title>div.more>a{
+    display: inline-block;
+    font-family: Iranyekan;
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(0, 166, 255);
+}
+div.more-read>div.information{
+    margin-top: 10px;
+    width: 100%;
+    height: 400px;
+}
+div.more-read>div.information>div.right{
+    display: inline-block;
+    width: 24%;
+    border: 1px solid lightgray;
+    border-radius: 20px
+}
+div.more-read>div.information>div.right>img{
+    width:100%;
+    border-radius: 20px 20px 0 0;
+}
+div.more-read>div.information>div.right>p{
+    font-family: IranYekan;
+    vertical-align:sub;
+}
+div.more-read>div.information>div.center-right{
+    display: inline-block;
+    width: 24%;
+    border: 1px solid lightgray;
+    border-radius: 20px;
+    margin-right: 10px;
+}
+div.more-read>div.information>div.center-right>img{
+    width:100%;
+    border-radius: 20px 20px 0 0;
+}
+div.more-read>div.information>div.center-right>p{
+    font-family: IranYekan;
+    margin-right: 20px;
+}
+div.more-read>div.information>div.center-left{
+    display: inline-block;
+    width: 24%;
+    border: 1px solid lightgray;
+    border-radius: 20px;
+    margin-right: 10px;
+}
+div.more-read>div.information>div.center-left>img{
+    width:100%;
+    border-radius: 20px 20px 0 0;
+}
+div.more-read>div.information>div.center-left>p{
+    font-family: IranYekan;
+    margin-right: 20px;
+}
+div.more-read>div.information>div.left{
+    display: inline-block;
+    width: 24%;
+    border: 1px solid lightgray;
+    border-radius: 20px;
+    margin-right: 10px;
+}
+div.more-read>div.information>div.left>img{
+    width:100%;
+    border-radius: 20px 20px 0 0;
+}
+div.more-read>div.information>div.left>p{
+    font-family: IranYekan;
+    margin-right: 20px;
+
+}
